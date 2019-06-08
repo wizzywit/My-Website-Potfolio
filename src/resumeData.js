@@ -1,6 +1,6 @@
 let resumeData = {
   "imagebaseurl":"https://techonoeticsclub.github.io/",
-  "name": "Wisdom Praise",
+  "name": "Wissssdom Praise",
   "role": "Software Developer",
   "linkedinId":"2060b7166",
   "roleDescription": " I like triffling with various parts of frontend development, android development and like to learn about new technologies, write technical articles or simply play games in my free time.",

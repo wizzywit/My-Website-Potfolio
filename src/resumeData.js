@@ -112,12 +112,28 @@ let resumeData = {
   ],
   "testimonials":[
     {
-      "description":"This is a sample testimonial",
-      "name":"Some technical guy"
+      "description":"Talk is cheap. Show me the code",
+      "name":"Linus Torvalds"
     },
     {
-      "description":"This is a sample testimonial",
-      "name":"Some technical guy"
+      "description":"when you don't create things, you become defined by your tastes rather than ability. your tastes only narrow & exclude people. so create.",
+      "name":"Why The Lucky Stiff"
+    },
+    {
+      "description":"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live",
+      "name":"John Woods"
+    },
+    {
+      "description":"That's the thing about people who think they hate computers. What they really hate is lousy programmers.",
+      "name":"Larry Niven"
+    },
+    {
+      "description":"Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+      "name":"Martin Fowler"
+    },
+    {
+      "description":"Give a man a program, frustrate him for a day."+ "Teach a man to program, frustrate him for a lifetime.",
+      "name":"Muhammad Waseem"
     }
   ]
 }

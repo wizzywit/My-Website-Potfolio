@@ -1,9 +1,9 @@
 let resumeData = {
-  "imagebaseurl":"https://techonoeticsclub.github.io/",
-  "name": "Wissssdom Praise",
+  "imagebaseurl":"https://wizzwit.github.io/",
+  "name": "Wisdom Praise",
   "role": "Software Developer",
   "linkedinId":"2060b7166",
-  "roleDescription": " I like triffling with various parts of frontend development, android development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+  "roleDescription": " I like triffling with various parts of frontend development, android development, like to learn about new technologies, write technical articles or simply play games in my free time.",
   "socialLinks":[
       {
         "name":"linkedin",
@@ -14,11 +14,21 @@ let resumeData = {
         "name":"github",
         "url":"http://github.com/wizzywit",
         "className":"fa fa-github"
+      },
+      {
+        "name":"twitter",
+        "url":"http://github.com/wizzywit",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/wisdom.praise.3",
+        "className":"fa fa-facebook"
       }
     ],
   "aboutme":"I am rounding up on my B.Eng. Studies in Computer Engineering at FEDERAL UNIVERSITY OF TECHNOLOGY MINNA and have been working with my colleagues at bisoncorps ltd, and I am free to take up freelance Jobs on Anything Software Development",
   "address":"Nigeria",
-  "website":"https://wizzywit.github.io/meetwisdompraise/",
+  "website":"https://wizzywit.github.io",
   "education":[
     {
       "UniversityName":"Federal University of Technology, Minna Niger State",
@@ -37,18 +47,18 @@ let resumeData = {
   ],
   "work":[
     {
-      "CompanyName":"Some Company",
-      "specialization":"Some specialization",
+      "CompanyName":"Afenoid Enterprise Limited",
+      "specialization":"Software Engineer",
       "MonthOfLeaving":"Jan",
-      "YearOfLeaving":"2018",
-      "Achievements":"Some Achievements"
+      "YearOfLeaving":"2019",
+      "Achievements":"Spear Headed the Software development team"
     },
     {
-      "CompanyName":"Some Company",
-      "specialization":"Some specialization",
-      "MonthOfLeaving":"Jan",
-      "YearOfLeaving":"2018",
-      "Achievements":"Some Achievements"
+      "CompanyName":"Bisoncorps Co. Limited",
+      "specialization":"Software Developer",
+      "MonthOfLeaving":"Not available",
+      "YearOfLeaving":"Still working",
+      "Achievements":"Participated in the development team on various projects like Assetmon, Signalum and more"
     }
   ],
   "skillsDescription":"Your skills here",
@@ -61,6 +71,21 @@ let resumeData = {
     },
     {
       "skillname":"Reactjs"
+    },
+    {
+      "skillname":"Java"
+    },
+    {
+      "skillname":"Kotlin"
+    },
+    {
+      "skillname":"JavaScript"
+    },
+    {
+      "skillname":"PHP"
+    },
+    {
+      "skillname":"nodeJS"
     }
   ],
   "portfolio":[

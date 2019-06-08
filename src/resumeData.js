@@ -1,44 +1,38 @@
 let resumeData = {
   "imagebaseurl":"https://techonoeticsclub.github.io/",
-  "name": "John Doe",
-  "role": "Frontend Developer",
-  "linkedinId":"Your LinkedIn Id",
-  "skypeid": "Your skypeid",
-  "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+  "name": "Wisdom Praise",
+  "role": "Software Developer",
+  "linkedinId":"2060b7166",
+  "roleDescription": " I like triffling with various parts of frontend development, android development and like to learn about new technologies, write technical articles or simply play games in my free time.",
   "socialLinks":[
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/",
+        "url":"https://www.linkedin.com/in/wisdom-praise-2060b7166",
         "className":"fa fa-linkedin"
       },
       {
         "name":"github",
-        "url":"http://github.com/",
+        "url":"http://github.com/wizzywit",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ],
-  "aboutme":"I have finished my B.E. in Computer Science and have been working in industry for past few years.",
-  "address":"India",
-  "website":"https://www.codeclassifiers.com",
+  "aboutme":"I am rounding up on my B.Eng. Studies in Computer Engineering at FEDERAL UNIVERSITY OF TECHNOLOGY MINNA and have been working with my colleagues at bisoncorps ltd, and I am free to take up freelance Jobs on Anything Software Development",
+  "address":"Nigeria",
+  "website":"https://wizzywit.github.io/meetwisdompraise/",
   "education":[
     {
-      "UniversityName":"Mumbai University",
-      "specialization":"Some specialization",
-      "MonthOfPassing":"Jan",
-      "YearOfPassing":"2018",
-      "Achievements":"Some Achievements"
+      "UniversityName":"Federal University of Technology, Minna Niger State",
+      "specialization":"Computer Engineering",
+      "MonthOfPassing":"Feb",
+      "YearOfPassing":"2020",
+      "Achievements":"B. Eng in Computer Engineering"
     },
     {
-      "UniversityName":"Some University",
-      "specialization":"Some specialization",
+      "UniversityName":"Government Secoundary School Nyanya, Abuja Nigeria",
+      "specialization":"Field of Science",
       "MonthOfPassing":"Jan",
-      "YearOfPassing":"2018",
-      "Achievements":"Some Achievements"
+      "YearOfPassing":"2013",
+      "Achievements":"SSCE"
     }
   ],
   "work":[
@@ -71,23 +65,23 @@ let resumeData = {
   ],
   "portfolio":[
     {
-      "name":"project1",
-      "description":"mobileapp",
+      "name":"Signalum-Desktop",
+      "description":"Multiprotocol Analyzer",
       "imgurl":"images/portfolio/phone.jpg"
     },
     {
-      "name":"project2",
-      "description":"mobileapp",
+      "name":"Assetmon",
+      "description":"Admin management System developed with ReactJS",
       "imgurl":"images/portfolio/project.jpg"
     },
     {
-      "name":"project3",
-      "description":"mobileapp",
+      "name":"Server-Client App",
+      "description":"android application",
       "imgurl":"images/portfolio/project2.png"
     },
     {
-      "name":"project4",
-      "description":"mobileapp",
+      "name":"Marioplan",
+      "description":"Project Management Application",
       "imgurl":"images/portfolio/phone.jpg"
     }
   ],

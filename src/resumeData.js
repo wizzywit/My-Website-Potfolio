@@ -132,7 +132,7 @@ let resumeData = {
       "name":"Martin Fowler"
     },
     {
-      "description":"Give a man a program, frustrate him for a day."+ "Teach a man to program, frustrate him for a lifetime.",
+      "description":"Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime.",
       "name":"Muhammad Waseem"
     }
   ]

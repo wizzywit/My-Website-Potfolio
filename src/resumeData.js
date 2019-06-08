@@ -22,7 +22,7 @@ let resumeData = {
       },
       {
         "name":"facebook",
-        "url":"http://facebook.com/wisdom.praise.3",
+        "url":"http://facebook.com/wizzywit968",
         "className":"fa fa-facebook"
       }
     ],

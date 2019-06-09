@@ -101,7 +101,7 @@
    -------------------------------------------------------------------- */
    #nav-wrap {
       font: 12px 'opensans-bold', sans-serif;
-      background: transparent !important;
+      background: black ;
       letter-spacing: 1.5px;  
       width: auto;
       position: fixed;
@@ -112,7 +112,7 @@
 	   width: 48px;
 		height: 48px;
 		text-align: left;
-		background-color: #CC5200;
+		
 		position: relative;
       border: none;
       float: right;

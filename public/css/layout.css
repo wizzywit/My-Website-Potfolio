@@ -413,8 +413,8 @@ ul#nav li.current a { color: #F06000; }
   100% { width: 80%;  }
 }
 @-webkit-keyframes reactjs {
-  0%   { width: 0px;  }
-  100% { width: 80%;  }
+  0%   { width: 0px; background: red;  }
+  100% { width: 80%; background: green; }
 }
 
 @-webkit-keyframes java {

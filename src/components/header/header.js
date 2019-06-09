@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Zoom from 'react-reveal/Zoom';
 export default class Header extends Component {
   render() {
     let resumeData = this.props.resumeData;
@@ -20,6 +21,7 @@ export default class Header extends Component {
          </nav>
 
          <div className="row banner">
+           <Zoom left>
             <div className="banner-text">
                <h1 className="responsive-headline">I am {resumeData.name}.</h1>
                <h3>I am a {resumeData.role}.{resumeData.roleDescription}
@@ -38,6 +40,7 @@ export default class Header extends Component {
                   }
                </ul>
             </div>
+            </Zoom>
          </div>
 
          <p className="scrolldown">

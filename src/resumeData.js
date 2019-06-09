@@ -56,7 +56,7 @@ let resumeData = {
     {
       "CompanyName":"Bisoncorps Co. Limited",
       "specialization":"Software Developer",
-      "MonthOfLeaving":"Not available",
+      "MonthOfLeaving":"",
       "YearOfLeaving":"Still working",
       "Achievements":"Participated in the development team on various projects like Assetmon, Signalum and more"
     }
@@ -64,28 +64,36 @@ let resumeData = {
   "skillsDescription":"My Field of Specialization and My Skill level",
   "skills":[
     {
-      "skillname":"HTML5"
+      "skillname":"HTML5",
+      "skilllevel": "80"
     },
     {
-      "skillname":"CSS"
+      "skillname":"CSS",
+      "skilllevel": "60"
     },
     {
-      "skillname":"Reactjs"
+      "skillname":"Reactjs",
+      "skilllevel": "80"
     },
     {
-      "skillname":"Java"
+      "skillname":"Java",
+      "skilllevel": "80"
     },
     {
-      "skillname":"Kotlin"
+      "skillname":"Kotlin",
+      "skilllevel": "45"
     },
     {
-      "skillname":"JavaScript"
+      "skillname":"JavaScript",
+      "skilllevel": "80"
     },
     {
-      "skillname":"PHP"
+      "skillname":"PHP",
+      "skilllevel": "60"
     },
     {
-      "skillname":"nodeJS"
+      "skillname":"nodejs",
+      "skilllevel": "80"
     }
   ],
   "portfolio":[

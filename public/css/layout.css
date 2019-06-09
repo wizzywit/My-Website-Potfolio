@@ -387,6 +387,11 @@ ul#nav li.current a { color: #F06000; }
   100% { width: 80%;  }
 }
 
+@-moz-keyframes java {
+   0%   { width: 0px;  }
+   100% { width: 90%;  }
+ }
+
 @-webkit-keyframes photoshop {
   0%   { width: 0px;  }
   100% { width: 60%;  }
@@ -411,6 +416,11 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
+
+@-webkit-keyframes java {
+   0%   { width: 0px;  }
+   100% { width: 90%;  }
+ }
 
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section

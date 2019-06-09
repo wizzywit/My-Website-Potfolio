@@ -61,7 +61,7 @@ let resumeData = {
       "Achievements":"Participated in the development team on various projects like Assetmon, Signalum and more"
     }
   ],
-  "skillsDescription":"Your skills here",
+  "skillsDescription":"My Field of Specialization and My Skill level",
   "skills":[
     {
       "skillname":"HTML5"
